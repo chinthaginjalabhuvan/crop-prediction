@@ -85,7 +85,8 @@ Open the localhost url provided after running `app.py` and now you can use the p
 
 ## Crop Prediction Report
 
-[Download PDF](https://github.com/ChinthaginjalaBhuvan/crop-prediction/blob/pro%20-%2027%20%2C%20CSE%20copy%20github%20version.pdf)
+[Download PDF](https://github.com/ChinthaginjalaBhuvan/crop-prediction/raw/master/pro%20-%2027%20%2C%20CSE%20copy%20github%20version.pdf)
+
 
 
 
