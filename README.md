@@ -37,6 +37,26 @@ With the integration of technologies like Machine Learning and Deep Learning, fa
 - Raspberry
 </details>
 
+## Images
+### Home
+<img src="./images/home.png">
+
+### About
+<img src="./images/about.png">
+
+### Crop
+<img src="./images/crop.png">
+
+### Crop result
+<img src="./images/crop result.png">
+
+### Fertilizer
+<img src="./images/Fertilizer.png">
+
+### Fertilizer result
+<img src="./images/Fertilizer result.png">
+
+
 
 
 
