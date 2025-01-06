@@ -83,6 +83,11 @@ python app.py
 
 Open the localhost url provided after running `app.py` and now you can use the project locally in your web browser.
 
+## Crop Prediction Report
+
+[Download PDF](https://github.com/ChinthaginjalaBhuvan/crop-prediction/blob/main/pro%20-%2027%20%2C%20CSE%20copy%20github%20version.pdf)
+
+
 
 
 
