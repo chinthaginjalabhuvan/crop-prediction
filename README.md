@@ -56,6 +56,43 @@ With the integration of technologies like Machine Learning and Deep Learning, fa
 ### Fertilizer result
 <img src="./images/Fertilizer result.png">
 
+## How to Run Locally 🚀
+
+To run this project locally on your machine, follow these steps:
+
+
+### 1. Clone the Repository
+
+Clone the repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/chinthaginjalabhuvan/crop-prediction.git
+```
+### 2. Set Up the Environment
+
+Once the project is cloned, open **Anaconda Prompt** in the directory where the project was cloned . Alternatively, you can use Google Colab to set up the environment for the project by uploading the necessary files or linking the GitHub repository directly in your Colab environment.
+
+### 3. Run the Application
+
+Run the project with:
+
+```bash
+python app.py
+```
+### 4.Access the Application
+
+Open the localhost url provided after running `app.py` and now you can use the project locally in your web browser.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
